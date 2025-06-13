@@ -1,13 +1,9 @@
 
----
+# 💵 ANN Regression – Salary Prediction
 
-### 📁 ANN_Regression – `README.md`
+This project uses an Artificial Neural Network (ANN) for predicting salary using a regression model.
 
-```markdown
-# 🧠 ANN Salary Regression
-
-This project uses an **Artificial Neural Network (ANN)** for predicting salary using a regression model.
-
+--- 
 ## 📁 Project Structure
 
 - `data.csv` - Dataset file  
